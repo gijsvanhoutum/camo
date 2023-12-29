@@ -7,7 +7,7 @@ or take a look at a [presentation](https://github.com/gijsvanhoutum/camo/blob/ma
 
 ## Presentation screenshot
 
-<img src="https://github.com/gijsvanhoutum/camo/blob/master/icons/lens_distortion.png?raw=true">
+<img src="https://github.com/gijsvanhoutum/camo/blob/master/icons/self_calibration.png?raw=true">
 
 
 ## TODO
